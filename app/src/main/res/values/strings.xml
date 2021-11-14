@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab 02 Converter (Lukyanov)</string>
+    <string name="action_convert">Convert</string>
+    <string name="label_from_units">From:</string>
+    <string name="label_to_units">To:</string>
+    <string name="label_radioVolume">Volume</string>
+    <string name="label_radioLength">Length</string>
+    <string name="label_radioWeight">Weight</string>
+</resources>
